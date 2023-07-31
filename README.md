@@ -1,7 +1,7 @@
 # QT Form Load Test
 ## Extremely basic example of QT form load from Python script
 
-Design forms in QT Designer and load from a Python script
+Design forms in QT Designer or any other compatible software, and load from a Python script
 
 https://www.qt.io/
 
